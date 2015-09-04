@@ -1,2 +1,0 @@
-C:\Users\julie\Documents\Visual Studio 2015\Projects\repositorio_base_sqlserver\repositorio_base_sqlserver\obj\Debug\repositorio_base_sqlserver.njsprojResolveAssemblyReference.cache
-C:\Users\julie\Documents\Visual Studio 2015\Projects\repositorio_base_sqlserver\repositorio_base_sqlserver\bin\Microsoft.NodejsTools.WebRole.dll
